@@ -1,0 +1,30 @@
+{
+  "name": "micro-cron",
+  "version": "1.0.0",
+  "description": "A tiny, dependency-free in-memory cron scheduler for Node.js",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Rakshith",
+  "keywords": [
+    "cron",
+    "scheduler",
+    "jobs",
+    "task",
+    "node",
+    "cronjob"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/micro-cron"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/micro-cron/issues"
+  },
+  "homepage": "https://github.com/yourusername/micro-cron",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "test": "node -e \"console.log('No tests configured')\""
+  }
+}
